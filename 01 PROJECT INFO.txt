@@ -1,0 +1,9 @@
+**Log on to codeastro.com for more projects!**
+
+**Developed By Manjurul Hoque Rumi**
+
+**Installation**
+
+- Insert your mongoURI under keys.js
+- npm install
+- npm start
